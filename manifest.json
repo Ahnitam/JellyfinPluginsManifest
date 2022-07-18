@@ -6,7 +6,7 @@
         "overview": "Gera arquivos SRTM a partir do Rclone Serve",
         "owner": "Ahnitam",
         "category": "General",
-        "imageUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/raw/main/Imagens/image.png",
+        "imageUrl": "https://raw.githubusercontent.com/Ahnitam/GenerateStrmFromRclone/main/Imagens/image.png",
         "versions": [
 			      {
                 "version": "10.8.1.0",
