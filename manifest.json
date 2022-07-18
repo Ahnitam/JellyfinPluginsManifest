@@ -13,7 +13,7 @@
                 "changelog": "Fix plugin configuration",
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/releases/download/v10.8.1.1/GenerateStrmFromRclone_v10.8.1.1.zip",
-                "checksum": "281d191c66f1cbf47b65f88bbfec393c",
+                "checksum": "73fa20b699c04a608410bd6f87782863",
                 "timestamp": "2022-07-18 13:00:00"
             },
             {
