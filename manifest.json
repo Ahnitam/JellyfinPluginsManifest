@@ -9,20 +9,12 @@
         "imageUrl": "https://raw.githubusercontent.com/Ahnitam/GenerateStrmFromRclone/main/Imagens/image.png",
         "versions": [
             {
-                "version": "10.8.1.1",
+                "version": "10.8.1.2",
                 "changelog": "Fix plugin configuration",
                 "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/releases/download/v10.8.1.1/GenerateStrmFromRclone_v10.8.1.1.zip",
-                "checksum": "b23ab8f3961e2d04f49ad1d5eeaf33c6",
-                "timestamp": "2022-07-18 13:00:00"
-            },
-            {
-                "version": "10.8.1.0",
-                "changelog": "Initial Version",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/releases/download/v10.8.1/GenerateStrmFromRclone_v10.8.1.0.zip",
-                "checksum": "8534d2913b8ca5f163e24b399362a214",
-                "timestamp": "2022-07-17 23:00:00"
+                "sourceUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/releases/download/v10.8.1.2/GenerateStrmFromRclone_v10.8.1.2.zip",
+                "checksum": "22a8751f256eefef5cf54849913affd5",
+                "timestamp": "2022-07-18 13:30:00"
             }
         ]
     }
