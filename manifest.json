@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "ba40fc1c-12fd-438e-a0d0-504fada2347c",
+        "name": "Generate STRM From Rclone",
+        "description": "Gera arquivos SRTM a partir do Rclone Serve",
+        "overview": "Gera arquivos SRTM a partir do Rclone Serve",
+        "owner": "Ahnitam",
+        "category": "General",
+        "imageUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/raw/main/Imagens/image.png",
+        "versions": [
+			      {
+                "version": "10.8.1.0",
+                "changelog": "Initial Version",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/releases/download/v10.8.1/GenerateStrmFromRclone_v10.8.1.0.zip",
+                "checksum": "8534d2913b8ca5f163e24b399362a214",
+                "timestamp": "2022-07-17 23:00:00"
+            },
+        ]
+    }
+]
