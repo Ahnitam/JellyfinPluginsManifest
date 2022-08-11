@@ -9,6 +9,14 @@
         "imageUrl": "https://raw.githubusercontent.com/Ahnitam/GenerateStrmFromRclone/main/Imagens/image.png",
         "versions": [
             {
+                "version": "1.2.0.0",
+                "changelog": "Removido modo de execução local rclone\nAdicionado usuario e senha para o rclone rc\ncorreções menores...",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/Ahnitam/GenerateStrmFromRclone/releases/download/v1.2.0/GenerateStrmFromRclone_v1.2.0.0.zip",
+                "checksum": "003c23c03a7c93fcf82869f70a1f6622",
+                "timestamp": "2022-08-11 01:20:00"
+            },
+            {
                 "version": "1.1.0.0",
                 "changelog": "Selecionar modo de funcionamento adicionado",
                 "targetAbi": "10.8.0.0",
